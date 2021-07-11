@@ -1,5 +1,5 @@
 # Recipe
-Gitbook + Github active + Github page
+Git book + GitHub active + GitHub page
 
 ## install gitbook package
 ``` shell
