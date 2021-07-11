@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       # Run this action to publish gitbook
       - name: Publish
-        uses: kimi0230/publish-gitbook@v1.0.0
+        uses: kimi0230/gitbook-action@master
         with:
           # specify either github_token or personal_token
           github_token: ${{ secrets.GH_ACCESS_TOKEN }}
