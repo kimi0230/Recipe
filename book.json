@@ -3,6 +3,7 @@
     "description": "test Git book + GitHub active + GitHub page",
     "author": "helight",
     "language": "zh-hant",
+    "ignores": ["node_modules"],
     "plugins": [
         "search",
         "-sharing",
