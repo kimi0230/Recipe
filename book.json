@@ -6,7 +6,7 @@
     "ignores": ["node_modules"],
     "plugins": [
         "search",
-        "-sharing",
+        "sharing",
         "expandable-chapters",
         "splitter",
         "anchor-navigation-ex",
