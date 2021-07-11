@@ -1,13 +1,15 @@
 {
     "title": "Recipe",
-    "description": "測試 Git book + GitHub active + GitHub page, 順便把找到的食譜記錄起來",
+    "description": "test Git book + GitHub active + GitHub page",
     "author": "helight",
     "language": "zh-hant",
-    "styles": {
-        "website": "styles/website.css"
-    },
     "plugins": [
-        "search"
+        "search",
+        "-sharing",
+        "expandable-chapters",
+        "splitter",
+        "anchor-navigation-ex",
+        "page-footer-ex",
     ],
     "pluginsConfig": {}
 }
