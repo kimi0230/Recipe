@@ -32,3 +32,5 @@ gitbook epub [book] [output]
 ## Reference
 * https://wastemobile.gitbooks.io/gitbook-chinese/content/book/gitbook-cli.html
 * https://blog.csdn.net/qq_40889820/article/details/110013310
+* https://www.cnblogs.com/snowdreams1006/p/12023904.html
+* http://www.chengweiyang.cn/gitbook/github-pages/README.html

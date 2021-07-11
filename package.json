@@ -1,0 +1,27 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "Git book + GitHub active + GitHub page",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-page-footer-ex": "^0.1.2",
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-search": "^2.2.1",
+    "gitbook-plugin-splitter": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimi0230/Recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimi0230/Recipe/issues"
+  },
+  "homepage": "https://github.com/kimi0230/Recipe#readme"
+}
