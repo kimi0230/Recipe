@@ -1,4 +1,5 @@
 # Recipe
+Gitbook + Github active + Github page
 
 ## install gitbook package
 ``` shell
@@ -30,3 +31,4 @@ gitbook epub [book] [output]
 
 ## Reference
 * https://wastemobile.gitbooks.io/gitbook-chinese/content/book/gitbook-cli.html
+* https://blog.csdn.net/qq_40889820/article/details/110013310
