@@ -14,7 +14,8 @@
         "-search",
         "-lunr",
         "search-plus",
-        "sharing",
+        "-sharing",
+        "sharing-plus",
         "expandable-chapters",
         "splitter",
         "-anchor-navigation-ex",
@@ -61,6 +62,19 @@
                 "type": "star",
                 "size": "small"
             }]
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "line": true,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper", "line"
+            ]
         },
         "intopic-toc": {
             "label": "CONTENTS"
