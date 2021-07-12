@@ -1,5 +1,4 @@
-# Table of contents
+# Recipe
 
-* [Recipe](README.md)
-* [紹興醉雞](shao-xing-zui-ji.md)
-
+- Main Course
+  * [紹興醉雞](main_course/紹興醉雞.md)

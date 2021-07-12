@@ -4,6 +4,12 @@
     "author": "helight",
     "language": "zh-hant",
     "ignores": ["node_modules"],
+    "links": {
+        "sidebar": {
+            "GitHub": "https://github.com/kimi0230/Recipe",
+            "About me": "https://github.com/kimi0230"
+        }
+    },
     "plugins": [
         "search",
         "sharing",
@@ -14,7 +20,8 @@
         "favicon-absolute",
         "github-buttons",
         "-disqus",
-        "-codeblock-filename"
+        "-codeblock-filename",
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "favicon-absolute": {

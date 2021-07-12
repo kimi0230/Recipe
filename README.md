@@ -16,17 +16,26 @@ npm install graceful-fs@4.2.0 --save
 ```
 
 ## gitbook commands
+
+##### generate SUMMARY.md
+```
+book sm -i _book node_modules 
+```
+
 ##### start service
 ```
 gitbook serve .
-# build static file
+```
+
+##### build static file
+```
 gitbook build --output=/build/recipe
 ```
 
-##### export
-gitbook epub 製作 ePub 電子書
-gitbook mobi 製作 Kindle 電子書
-gitbook pdf 製作 PDF 電子書
+##### export file
+* gitbook epub 製作 ePub 電子書
+* gitbook mobi 製作 Kindle 電子書
+* gitbook pdf 製作 PDF 電子書
 ```
 gitbook epub [book] [output]
 ```
@@ -36,3 +45,4 @@ gitbook epub [book] [output]
 * https://blog.csdn.net/qq_40889820/article/details/110013310
 * https://www.cnblogs.com/snowdreams1006/p/12023904.html
 * http://www.chengweiyang.cn/gitbook/github-pages/README.html
+* https://guanqr.com/tech/computer/start-using-gitbook/
