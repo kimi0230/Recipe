@@ -6,22 +6,32 @@
     "ignores": ["node_modules"],
     "links": {
         "sidebar": {
+            "Home": "https://kimi0230.github.io/Recipe/",
             "GitHub": "https://github.com/kimi0230/Recipe",
             "About me": "https://github.com/kimi0230"
         }
     },
     "plugins": [
-        "search",
+        "-search",
+        "-lunr",
+        "search-plus",
         "sharing",
         "expandable-chapters",
         "splitter",
-        "anchor-navigation-ex",
+        "-anchor-navigation-ex",
+        "-toggle-chapters",
+        "back-to-top-button",
         "page-footer-ex",
         "favicon-absolute",
+        "github",
         "github-buttons",
         "-disqus",
         "-codeblock-filename",
-        "copy-code-button"
+        "code",
+        "-copy-code-button",
+        "-emphasize",
+        "page-toc",
+        "intopic-toc"
     ],
     "pluginsConfig": {
         "favicon-absolute": {
@@ -37,6 +47,13 @@
                 "120x120": "/apple-touch-icon-precomposed-120.png",
                 "180x180": "/apple-touch-icon-precomposed-180.png"
             }
+        },
+        "expandable-chapters": {
+            "mode": "pageTop",
+            "showGoTop": true
+        },
+        "github": {
+            "url": "https://github.com/kimi0230"
         },
         "github-buttons": {
             "buttons": [{

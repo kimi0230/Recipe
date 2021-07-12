@@ -46,3 +46,4 @@ gitbook epub [book] [output]
 * https://www.cnblogs.com/snowdreams1006/p/12023904.html
 * http://www.chengweiyang.cn/gitbook/github-pages/README.html
 * https://guanqr.com/tech/computer/start-using-gitbook/
+* https://blog.csdn.net/qq_43514847/article/details/86598399#231_code__124
