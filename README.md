@@ -1,6 +1,8 @@
 # Recipe
 Git book + GitHub active + GitHub page
 
+[demo](https://kimi0230.github.io/Recipe/)
+
 ## install gitbook package
 ``` shell
 npm install -g gitbook

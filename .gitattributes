@@ -1,1 +1,2 @@
+*.rb linguist-language=shell
 gitbook/* linguist-vendored=false
