@@ -1,11 +1,12 @@
 # Recipe
 Gitbook CLI + GitHub Actives + GitHub Pages
 
-<center class="half">
-    <img src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" height="15%" width="20%"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" height="15%" width="20%"/>
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="15%" width="20%"/>
-</center>
+
+<p align="middle">
+    <img src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4"  width="15%"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png"  width="15%"/>
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" " width="15%"/>
+</>
 
 
 ## install gitbook package
