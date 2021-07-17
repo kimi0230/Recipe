@@ -1,5 +1,5 @@
 # Recipe
-Gitbook CLI + GitHub Actives + GitHub Pages
+Gitbook CLI + GitHub Actions + GitHub Pages
 
 
 <p align="middle">
