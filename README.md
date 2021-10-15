@@ -1,4 +1,6 @@
 # Recipe
+[![Build my gitbook and deploy to gh-pages](https://github.com/kimi0230/Recipe/actions/workflows/build.yml/badge.svg)](https://github.com/kimi0230/Recipe/actions/workflows/build.yml)
+
 Gitbook CLI + GitHub Actions + GitHub Pages
 
 
