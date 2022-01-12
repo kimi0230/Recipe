@@ -14,4 +14,4 @@
   * [豬肉泡菜](main_course/豬肉泡菜.md)
   * [青椒炒肉絲](main_course/青椒炒肉絲.md)
   * [麻油雞](main_course/麻油雞.md)
-* [Content](Content.md)
+* [INSTALLGUIDE](INSTALLGUIDE.md)

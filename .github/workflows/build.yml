@@ -28,7 +28,7 @@ jobs:
       - name: generate _book folder
         run: |
           book sm
-          ln -s -f SUMMARY.md Content.md
+          ln -s -f SUMMARY.md README.md
           gitbook build
           cp SUMMARY.md _book
 
