@@ -1,12 +1,15 @@
 {
-    "title": "Recipe",
-    "description": "test Git book + GitHub active + GitHub page",
-    "author": "helight",
-    "ignores": ["node_modules"],
+    "title": "Kimi's Recipe",
+    "description": " Gitbook  GitHub active GitHub page Recipe",
+    "author": "Kimi Tsai <kimi0230@gmail.com>",
+    "ignores": [
+        "node_modules"
+    ],
     "links": {
         "sidebar": {
             "Home": "https://kimi0230.github.io/Recipe/",
             "GitHub": "https://github.com/kimi0230/Recipe",
+            "Medium": "https://medium.com/@kimi0230",
             "About me": "https://github.com/kimi0230"
         }
     },
@@ -31,7 +34,8 @@
         "-copy-code-button",
         "-emphasize",
         "page-toc",
-        "intopic-toc"
+        "intopic-toc",
+        "-github-issue-feedback"
     ],
     "pluginsConfig": {
         "favicon-absolute": {
@@ -56,12 +60,14 @@
             "url": "https://github.com/kimi0230"
         },
         "github-buttons": {
-            "buttons": [{
-                "user": "kimi0230",
-                "repo": "Recipe",
-                "type": "star",
-                "size": "small"
-            }]
+            "buttons": [
+                {
+                    "user": "kimi0230",
+                    "repo": "Recipe",
+                    "type": "star",
+                    "size": "small"
+                }
+            ]
         },
         "sharing": {
             "facebook": true,
@@ -72,8 +78,12 @@
             "vk": false,
             "line": true,
             "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper", "line"
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper",
+                "line"
             ]
         },
         "intopic-toc": {
@@ -81,6 +91,9 @@
         },
         "disqus": {
             "shortName": "Kimi'sGitbook"
+        },
+        "github-issue-feedback": {
+            "repo": "kimi0230/Recipe"
         }
     }
 }
