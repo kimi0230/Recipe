@@ -35,7 +35,7 @@
         "-emphasize",
         "page-toc",
         "intopic-toc",
-        "tags"
+        "tags",
         "-github-issue-feedback"
     ],
     "pluginsConfig": {
