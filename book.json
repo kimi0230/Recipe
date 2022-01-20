@@ -1,7 +1,7 @@
 {
-    "title": "Recipe",
-    "description": "test Git book + GitHub active + GitHub page",
-    "author": "helight",
+    "title": "Kimi's Recipe",
+    "description": " Gitbook  GitHub active GitHub page Recipe",
+    "author": "Kimi Tsai <kimi0230@gmail.com>",
     "ignores": [
         "node_modules"
     ],
@@ -9,6 +9,7 @@
         "sidebar": {
             "Home": "https://kimi0230.github.io/Recipe/",
             "GitHub": "https://github.com/kimi0230/Recipe",
+            "Medium": "https://medium.com/@kimi0230",
             "About me": "https://github.com/kimi0230"
         }
     },
@@ -35,6 +36,7 @@
         "page-toc",
         "intopic-toc",
         "tags"
+        "-github-issue-feedback"
     ],
     "pluginsConfig": {
         "favicon-absolute": {
@@ -90,6 +92,9 @@
         },
         "disqus": {
             "shortName": "Kimi'sGitbook"
+        },
+        "github-issue-feedback": {
+            "repo": "kimi0230/Recipe"
         }
     }
 }
