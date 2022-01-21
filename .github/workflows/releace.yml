@@ -1,9 +1,14 @@
 name: Build latest tag
 
-on: 
+# on: 
+#   push:
+#     tags: ["v*"]
+on:
+  workflow_dispatch:
   push:
-    tags: ["v*"]
-
+    branches:
+      - main
+      
 jobs:
   build:
     name: Build
