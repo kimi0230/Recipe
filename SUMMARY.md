@@ -1,4 +1,5 @@
 # Kimi's Recipe
+![](https://steel-quark-crabapple.glitch.me/badge?page_id=kimi0230.Recipe)
 
 - Dessert
   * [紅豆湯](dessert/紅豆湯.md)
