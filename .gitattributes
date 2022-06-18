@@ -1,0 +1,3 @@
+# * linguist-language=Markdown
+gitbook/* linguist-vendored
+gitbook/* linguist-generated=true
