@@ -37,7 +37,7 @@
         "intopic-toc",
         "tags",
         "-github-issue-feedback",
-        "sitemap"
+        "sitemap-general"
     ],
     "pluginsConfig": {
         "favicon-absolute": {
@@ -97,9 +97,8 @@
         "github-issue-feedback": {
             "repo": "kimi0230/Recipe"
         },
-        "sitemap": {
-            "hostname": "https://kimi0230.github.io/",
-            "pathPrefix": "Recipe/"
+        "sitemap-general": {
+            "prefix": "https://kimi0230.github.io/Recipe/"
         }
     }
 }
