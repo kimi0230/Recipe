@@ -4,13 +4,13 @@
   "description": "Git book + GitHub active + GitHub page",
   "main": "index.js",
   "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-page-footer-ex": "^0.1.2",
-    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
     "gitbook-plugin-search": "^2.2.1",
+    "gitbook-plugin-sitemap": "^1.2.0",
     "gitbook-plugin-splitter": "^0.0.8"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
