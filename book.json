@@ -98,7 +98,8 @@
             "repo": "kimi0230/Recipe"
         },
         "sitemap": {
-            "hostname": "https://kimi0230.github.io/Recipe/"
+            "hostname": "https://kimi0230.github.io/",
+            "pathPrefix": "Recipe/"
         }
     }
 }
