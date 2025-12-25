@@ -1,0 +1,59 @@
+site_name: "Kimi's Recipe"
+site_description: "Kimi's personal recipe collection"
+site_author: "Kimi Tsai"
+repo_url: "https://github.com/kimi0230/Recipe"
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs 
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - markdown.extensions.attr_list
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.magiclink
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: kimi0230
+      repo: Recipe
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - awesome-pages
+
+nav:
+  - 首頁: index.md
+  - ...
+  - 標籤 (Tags): tags.md
+  - 安裝指南: INSTALLGUIDE.md
