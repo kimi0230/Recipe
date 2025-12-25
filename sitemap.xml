@@ -1,32 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url> <loc>https://kimi0230.github.io/Recipe/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/dessert/紅豆湯.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/三杯辣炒杏鮑菇+豆乾.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/九層塔炒雞腿肉.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/五花肉炒香菇.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/優格咖哩雞胸.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/剝皮辣椒.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/沙茶豬血糕.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/海鮮粥.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/清蒸豆腐魚.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/漢堡肉.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/爪哇咖哩.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/紅蘿蔔烘蛋.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/紹興醉雞.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/胡椒蝦.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/茄燒豆皮.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/豆乾杏鮑炒.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/豆干炒肉絲.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/豬肉泡菜.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/醬燒豬血糕.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/雙醬豬血糕.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/青椒炒肉絲.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/馬鈴薯燉肉.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/main_course/麻油雞.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/soup/絲瓜湯.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/INSTALLGUIDE.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/tags.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/temp.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://kimi0230.github.io/Recipe/template.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </urlset>
